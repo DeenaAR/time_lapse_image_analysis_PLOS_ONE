@@ -3,7 +3,7 @@ This repository is a collection of MATLAB scripts and CellProfiler pipelines des
 on protocols.io, cited as follows:
 
 D.A. Rennerfeldt, P. Manning, J.S. Raminhos, and K.J. Van Vliet.  "Technological advancements in image processing and
-analysis for label-free investigations of bone marrowstromal cell behavior," protocols.io, 2019.  DOI: dx.doi.org/10.17504/protocols.io.w2sfgee
+analysis for label-free investigations of bone marrow stromal cell behavior," protocols.io, 2019.  DOI: dx.doi.org/10.17504/protocols.io.w2sfgee
 
 They were written by Deena Rennerfeldt (@deenaar), Matt Whitfield (@whitkala), and Pristinavae Manning (as 
 an undergraduate under the supervision of Deena Rennerfeldt) as part of a time lapse image analysis research
@@ -20,6 +20,6 @@ Laboratory for Material Chemomechanics under the direction of Krystyn Van Vliet.
 If using this repository, please use the following two citations:
 
 D.A. Rennerfeldt, P. Manning, J.S. Raminhos, and K.J. Van Vliet.  "Technological advancements in image processing and
-analysis for label-free investigations of bone marrowstromal cell behavior," protocols.io, 2019.  DOI: dx.doi.org/10.17504/protocols.io.w2sfgee
+analysis for label-free investigations of bone marrow stromal cell behavior," protocols.io, 2019.  DOI: dx.doi.org/10.17504/protocols.io.w2sfgee
 
 D. A. Rennerfeldt, M. J. Whitfield, P. Manning, and K. J. Van Vliet. GitHub Repository. "time_lapse_image_analysis_PLOS_ONE,” 2019. DOI: 10.5281/zenodo.2551721  
